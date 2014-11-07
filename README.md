@@ -1,3 +1,12 @@
+##Update:
+- Pay the pony will now be forked into Fly The Kitty... A Nyan Cat based Hilarityware.
+- This will entail a slight modification to the .exe and the lib it loads
+- Fly the kitty will now automatticly unlock / decrypt the encrypted files and directories after 48 hours as to avoid any possible indefinate lockouts.
+ 
+
+- *** DO NOT USE THIS FOR ANYTHING OTHER THAN MAYWARE ANALYSIS IN A TESTING ENVIROMENT... I AM NOT RESPONISBLE FOR ANY DAMAGES THAT MAY HAPPEN... PLEASE USE RESPONSIBLY ! ***
+ 
+
 Warning
 =======
 Do not run paythepony.exe on a system with content you do not wish to lose or have damaged. You have been warned.
